@@ -8,7 +8,7 @@
 
 | birthday | Gender| Favourite colour |favourite food | Pineapple on pizza
 |---|---|---|---|---| 
-| 12/02 | Male | Royal Blue |Italian |  NO
+| 12/02 | Male | Royal Blue |Italian |  <ul><li>[x] No Way</li><li>[ ] Heck Yes</li></ul>
 
 
 ### Hobbies 
