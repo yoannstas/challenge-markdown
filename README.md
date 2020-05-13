@@ -1,7 +1,7 @@
 # Yoann Stas
 *"Train insane or remain the same"*
 
-### 35 Years old Graphic Designer & Art Director from Brussels trying to learn coding at becode.org
+## 35 Years old Graphic Designer & Art Director from Brussels trying to learn coding at becode.org
 
 ![](32147504_10156394731763910_1223547044879138816_o.jpg)
 
@@ -24,7 +24,7 @@
   * Punishing her!!
 
 ### you can always count on me when...
-When you need some advice and help with all what breaths Adobe CC, Powerpoint, Keynote, etc
+you need some advice and help with all what breaths Adobe CC, Powerpoint, Keynote, etc
 
 ### A funny story
 A few years ago I went to New York with my best friend. What a great diverse city that is. We clearly saw that when we got invites for a cool rooftop party full of fashionably and hip people. We were so amazed by the party that we decided to go back to that club the night after. Looks like this wasn't a good idea since we actually ended up strumbling on a night full of naked men - you get the picture right? 
