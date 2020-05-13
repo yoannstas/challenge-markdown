@@ -17,11 +17,11 @@
   * Balearic beats
   * 80's
   * Deephouse
-* Politics
+* Politically active
 * My Cat 
   * Feeding her
   * Petting her
-  * Punishing her!!
+  * Educating her
 
 ### you can always count on me when...
 you need some advice and help with all what breaths Adobe CC, Powerpoint, Keynote, etc
